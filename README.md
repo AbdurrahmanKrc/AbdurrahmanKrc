@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently student in istanbul kültür university
+- 🔭 I’m currently student in İstanbul Kültür Üniversity
 - 🌱 I’m currently learning coding for games and designing for games
 - 📫 How to reach me:
                                                                                                                                                                             
