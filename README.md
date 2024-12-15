@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently student in İstanbul Kültür Üniversity
-- 🌱 I’m currently learning coding and designing for games
+- 🌱 I’m currently learning programming and designing for games
 - 📫 How to reach me:
                                                                                                                                                                             
   • MAİL: abdurrahmank914@gmail.com                                                                                                                                         
